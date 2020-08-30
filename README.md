@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-A short description of the project.
+My submission to the Kaggle Titanic Challenge.
 
 Project Organization
 ------------
